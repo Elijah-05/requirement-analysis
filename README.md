@@ -111,3 +111,35 @@ The five key activities are:
 ---
 
 ✅ These activities work together to ensure that the software product is **well-defined, feasible, and aligned with stakeholder expectations**, reducing risks and increasing the chances of project success.
+
+##  Types of Requirements
+
+The requirements of a software system are typically categorized into **Functional Requirements** and **Non-functional Requirements**. Understanding the difference between these two types is crucial for designing, developing, and delivering a successful system.
+
+---
+
+### 1 Functional Requirements ⚙️
+
+**Definition:** Functional requirements describe *what the system should do*. They define the core features and behaviors that the system must provide to fulfill the user’s needs.
+
+**Examples for the Booking Management Project:**
+- **User Registration:** Users should be able to create an account with personal information and login credentials.  
+- **Property Search:** Users must be able to search for properties based on criteria like location, price, and availability.  
+- **Booking System:** Users should be able to book properties, view booking details, and manage their reservations.  
+- **User Authentication:** Secure login and password management for registered users.  
+- **Property Listings:** Display property details including images, descriptions, and amenities.
+
+---
+
+### 2 Non-functional Requirements 🛡️
+
+**Definition:** Non-functional requirements describe *how the system should perform*. They focus on quality attributes such as performance, usability, reliability, and security.
+
+**Examples for the Booking Management Project:**
+- **Performance:** Pages should load within 2 seconds, and the system should handle up to 1,000 concurrent users.  
+- **Security:** All user data should be encrypted, and secure login protocols must be implemented.  
+- **Scalability:** The system should support future growth, allowing additional users and properties without performance degradation.  
+- **Usability:** The application must have an intuitive interface, making it easy for users to search properties and book them.  
+- **Reliability:** The system should maintain 99.9% uptime and recover quickly from failures.
+
+
