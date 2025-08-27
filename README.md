@@ -182,4 +182,36 @@ They help in understanding system functionality, identifying requirements, and c
 
 *Note:* The diagram was created using Draw.io and exported as `alx-booking-uc.png`.
 
+## Acceptance Criteria
+
+**Objective:** Explain how to establish and use Acceptance Criteria in Requirement Analysis.
+
+---
+
+### What is Acceptance Criteria?
+
+Acceptance Criteria are **specific conditions or requirements that a software feature must satisfy to be accepted by stakeholders**. They define what success looks like for a particular feature and help ensure that the system meets the intended requirements.
+
+**Importance in Requirement Analysis:**
+- **Clarity:** Provides a clear, shared understanding between developers, testers, and stakeholders.  
+- **Testable Requirements:** Helps QA teams verify that features work as expected.  
+- **Scope Control:** Reduces ambiguity and prevents scope creep by specifying exact expectations.  
+- **Improved Quality:** Ensures features meet user needs and business goals before release.  
+
+---
+
+### Example: Checkout Feature in the Booking Management System
+
+**Feature:** Checkout process for booking a property.  
+
+**Acceptance Criteria:**
+1. Users must be able to select available dates for a property.  
+2. Users must be able to confirm their booking.  
+3. Users must receive a confirmation email within 2 minutes of completing the booking.  
+4. Payment should be processed securely and reflected in the booking details.  
+5. The system should prevent double-booking for the same property on overlapping dates.  
+
+---
+
+✅ By defining acceptance criteria, teams ensure that each feature is **clearly measurable, testable, and aligned with user expectations**, reducing misunderstandings and improving the quality of the final product.
 
