@@ -78,3 +78,36 @@ Here are some key reasons why it is critical in the **SDLC**:
 
 ✅ In short, **Requirement Analysis reduces risks, improves quality, and ensures that the final software truly meets the user’s needs** — making it one of the most crucial phases of the SDLC.
 
+## 🛠️ Key Activities in Requirement Analysis
+
+Requirement Analysis involves a series of structured activities that ensure the software being developed is well-understood, feasible, and aligned with stakeholder needs.  
+The five key activities are:  
+
+### 1. Requirement Gathering 🗂️
+- Collects raw information directly from stakeholders such as clients, end users, and business analysts.  
+- Techniques include **interviews, surveys, workshops, observation**, and reviewing existing documentation.  
+- The goal is to understand *what stakeholders need* from the system.  
+
+### 2. Requirement Elicitation ✍️
+- Goes beyond basic gathering to clarify, refine, and expand the collected requirements.  
+- Involves methods such as **brainstorming, prototyping, and focus group discussions**.  
+- Helps uncover hidden or conflicting requirements that may not be obvious at first.  
+
+### 3. Requirement Documentation 📚
+- Converts gathered and elicited requirements into a structured, written form.  
+- Common formats include **Software Requirement Specification (SRS)** documents, **user stories**, and **use cases**.  
+- Clear documentation acts as a reference point for all project stakeholders throughout the SDLC.  
+
+### 4. Requirement Analysis and Modeling 📊
+- Evaluates requirements to check for **feasibility, priority, and consistency**.  
+- Creates visual models such as **data flow diagrams, entity-relationship diagrams, or UML use case diagrams** to better understand system behavior.  
+- Ensures requirements are realistic and aligned with project goals.  
+
+### 5. Requirement Validation ✅
+- Reviews documented requirements with stakeholders to confirm accuracy and completeness.  
+- Defines **acceptance criteria** for each requirement, ensuring they can be tested and verified.  
+- Establishes **traceability**, linking requirements to design, development, and testing to ensure nothing is missed.  
+
+---
+
+✅ These activities work together to ensure that the software product is **well-defined, feasible, and aligned with stakeholder expectations**, reducing risks and increasing the chances of project success.
