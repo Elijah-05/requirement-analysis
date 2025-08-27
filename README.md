@@ -142,4 +142,44 @@ The requirements of a software system are typically categorized into **Functiona
 - **Usability:** The application must have an intuitive interface, making it easy for users to search properties and book them.  
 - **Reliability:** The system should maintain 99.9% uptime and recover quickly from failures.
 
+## Use Case Diagrams
+
+**Objective:** Illustrate the use of Use Case Diagrams in Requirement Analysis.
+
+---
+
+### What are Use Case Diagrams?
+
+Use Case Diagrams are visual representations that show how different users (called **actors**) interact with a system to achieve specific goals (called **use cases**).  
+They help in understanding system functionality, identifying requirements, and communicating system behavior clearly with stakeholders.
+
+**Benefits of Use Case Diagrams:**
+- Provide a clear visual representation of system functionalities.
+- Help organize and prioritize requirements.
+- Facilitate communication between developers, stakeholders, and clients.
+- Aid in identifying missing functionalities early in the design phase.
+
+---
+
+### Example Use Case Diagram for Booking System
+
+**Actors:**
+- Guest
+- Registered User
+- Admin
+
+**Use Cases:**
+- Search Properties
+- View Property Details
+- Book Property
+- Manage Bookings
+- Manage Listings
+- User Registration / Login
+
+**Diagram:**  
+
+![Booking System Use Case Diagram](alx-booking-uc.png)
+
+*Note:* The diagram was created using Draw.io and exported as `alx-booking-uc.png`.
+
 
